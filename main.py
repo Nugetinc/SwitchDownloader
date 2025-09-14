@@ -6,7 +6,7 @@ import os
 # -----------------------------
 # CONFIG
 # -----------------------------
-REMOTE_JSON_URL = "https://example.com/apps.json"  # <-- replace with your real URL
+REMOTE_JSON_URL = "apps.json"  # <-- replace with your real URL
 DOWNLOAD_DIR = "downloads"
 
 # -----------------------------
