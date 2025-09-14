@@ -1,15 +1,24 @@
 {
-  "categories": {
-    "Games": [
-      {
-        "name": "Balatro",
-        "description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.\nCombine valid poker hands with unique Joker cards in order to create varied synergies and builds. Earn enough chips to beat devious blinds, all while uncovering hidden bonus hands and decks as you progress. You’re going to need every edge you can get in order to reach the boss blind, beat the final ante and secure victory.",
-        "author": "LocalThunk",
-        "version": "1.0",
-        "cover_url": "https://cdn2.steamgriddb.com/grid/84cec5b02eeefc657d6d2559eaa09e2b.jpg",
-        "banner_url": "https://img-eshop.cdn.nintendo.net/i/3e3e6ff91e23f38879a88db3b4e4de64e177e796789033519dca60af22394f81.jpg",
-        "download_url": "na"
-      }
-    ]
-  }
+    "categories": {
+        "Games": [
+            {
+                "name": "Balatro",
+                "description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.\nCombine valid poker hands with unique Joker cards in order to create varied synergies and builds. Earn enough chips to beat devious blinds, all while uncovering hidden bonus hands and decks as you progress. You’re going to need every edge you can get in order to reach the boss blind, beat the final ante and secure victory.",
+                "author": "LocalThunk",
+                "version": "1.0",
+                "cover_url": "https://cdn2.steamgriddb.com/grid/84cec5b02eeefc657d6d2559eaa09e2b.jpg",
+                "banner_url": "https://img-eshop.cdn.nintendo.net/i/3e3e6ff91e23f38879a88db3b4e4de64e177e796789033519dca60af22394f81.jpg",
+                "download_url": "na"
+            },
+            {
+                "name": "Pizza Tower",
+                "description": "Peppino Spaghetti, a surprisingly agile and powerful fat balding italian, is on a mission to destroy the titular Pizza Tower in order to save his restaurant from annihilation. Follow him through his rampage across the many wacky floors of the tower, collecting toppings and beating up monsters!\n\n- Weird crazy characters and animations!\n- An insanely energetic soundtrack!\n- An unusual platformer formula!\n- Play like you want! Go for the highest score or explore at your own pace!\n\nPLAY as Peppino Spaghetti, the supersonic italian middle-aged man! And sometimes Gustavo. EXPLORE up to 5 floors leading to many levels, discover all of their secrets! FIGHT some monsters and other weirdos! DESTROY everything in your path, including those stupid rats. BECOME the Pizza Tower!",
+                "author": "Tour De Pizza",
+                "version": "1.0.3",
+                "cover_url": "https://shared.steamstatic.com/store_item_assets/steam/apps/2231450/library_600x900_2x.jpg?t=1712946401",
+                "banner_url": "https://img-eshop.cdn.nintendo.net/i/d1841b9229da6944ce46cd93e719a58bb85242dc0accf9e1a2f1456cad07814a.jpg",
+                "download_url": "na"
+            }
+        ]
+    }
 }
